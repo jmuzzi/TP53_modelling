@@ -46,7 +46,7 @@ install.packages(c("tidyverse", "cowplot",  "sf", "scales", "geobr"))
 ## How to Run
 
 To replicate all results and generate the figures:
-  Open the file founder_model.Rmd in RStudio or any RMarkdown-compatible IDE.
+  Open the file TP53_founder_modelling R1_Code ocean.Rmd in RStudio or any RMarkdown-compatible IDE.
   Knit the document to PDF format.
   Output figures will be saved in the current working directory.  
 
