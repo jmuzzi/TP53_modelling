@@ -32,21 +32,15 @@ The analysis is fully implemented in **R** and includes:
 The code was developed using **R version ≥ 4.1.0** and the following packages:
 
 - `tidyverse`
-- `ggpubr`
-- `ggtext`
-- `glue`
 - `cowplot`
-- `ggrepel`
+- `scales`
 - `sf`
-- `rnaturalearth`
-- `rnaturalearthdata`
-- `lubridate`
+- `geobr`
 
 To install all dependencies:
 
 ```r
-install.packages(c("tidyverse", "ggpubr", "ggtext", "glue", "cowplot",
-                   "ggrepel", "sf", "rnaturalearth", "rnaturalearthdata", "lubridate"))
+install.packages(c("tidyverse", "cowplot",  "sf", "scales", "geobr"))
 ```                  
 
 ## How to Run
