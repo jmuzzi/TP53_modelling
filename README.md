@@ -1,6 +1,6 @@
 ---
 title: "Reconstructing the Origin and Demographic Expansion of the TP53 p.R337H Founder Variant in Brazil"
-output: html_document
+output: pdf_document
 date: "2025-09-21"
 ---
 
